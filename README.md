@@ -1,5 +1,8 @@
 Hi 👋 My name is Paolo Gonzales
-===============================* 🌍  I'm based in Philippines* ✉️  You can contact me at [pickelse25@gmail.com](mailto:pickelse25@gmail.com)* 🧠  I'm learning data science
+===============================
+* 🌍  I'm based in Philippines
+* ✉️  You can contact me at [pickelse25@gmail.com](mailto:pickelse25@gmail.com)
+* 🧠  I'm learning data science
 
 ### Skills
 
