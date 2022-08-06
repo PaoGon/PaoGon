@@ -63,6 +63,7 @@ Hi 👋 My name is Paolo Gonzales
 * Platform as a service (PaaS)
   * <div> 
       <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" width="50" height=50/>
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" width="50" height=50/>
   </div>
 
 
