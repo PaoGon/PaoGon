@@ -1,5 +1,16 @@
-Hi 👋 My name is Paolo Gonzales
-===============================
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611862e43d189884fe4edf2ca2598db658fefe42e70&rid=giphy.gif&ct=g" width="300"/>
+  <div id="badges">
+    <a href="your-linkedin-URL">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="http://www.instagram.com/raabbittttttt/">
+      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+    </a>
+  </div>
+  <h1> Hello 👋 I am Paolo Gonzales</h1>
+</div>
+
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [pickelse25@gmail.com](mailto:pickelse25@gmail.com)
 * 🧠  I'm learning data science
@@ -52,13 +63,12 @@ Hi 👋 My name is Paolo Gonzales
   * <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width="50" height=50/>
   </div>
-  
+
 * <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"> Linux
   * <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="50" height=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="50" height=50/>
   </div>
-
 
 * Platform as a service (PaaS)
   * <div> 
@@ -67,14 +77,8 @@ Hi 👋 My name is Paolo Gonzales
   </div>
 
 
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoGon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
                     
-### Socials
-<p align="left"> <a href="https://www.github.com/PaoGon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/raabbittttttt/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/PaoGon"><img src="https://github-readme-stats.vercel.app/api?username=PaoGon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PaoGon's GitHub stats" /></a>
