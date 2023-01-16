@@ -77,10 +77,10 @@
   </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoGon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=PaoGon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
                     
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/PaoGon"><img src="https://github-readme-stats.vercel.app/api?username=PaoGon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PaoGon's GitHub stats" /></a>
+<a href="http://www.github.com/PaoGon"><img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=PaoGon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PaoGon's GitHub stats" /></a>
 
 <a href="http://www.github.com/PaoGon"><img src="https://activity-graph.herokuapp.com/graph?username=PaoGon&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
