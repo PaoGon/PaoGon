@@ -35,7 +35,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height=50/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="50" height=50/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-plain.svg" width="50" height=50/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="50" height=50/>
+      <img src="https://typegraphql.com/img/logo.png" width="50" height=50/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="50" height=50/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="50" height=50/>
   </div>
