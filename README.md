@@ -34,6 +34,7 @@
       <img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" width="50" height=50/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height=50/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="50" height=50/>
+      <img src="https://vitejs.dev/logo-with-shadow.png" width="50" height=50/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="50" height=50/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-plain.svg" width="50" height=50/>
       <img src="https://typegraphql.com/img/logo.png" width="50" height=50/>
