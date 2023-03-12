@@ -12,7 +12,7 @@
 </div>
 
 * 🌍  I'm based in Philippines
-* ✉️  You can contact me at [pickelse25@gmail.com](mailto:pickelse25@gmail.com)
+* ✉️  You can contact me at [paologonzales254@gmail.com](mailto:paologonzales254@gmail.com)
 * 🧠  I'm learning data science
 
 ### Languages & Tools:
