@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611862e43d189884fe4edf2ca2598db658fefe42e70&rid=giphy.gif&ct=g" width="300"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/paolo-gonzales-455725269/">
+    <a href="https://www.linkedin.com/in/paolo-gonzales-498b83269/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="http://www.instagram.com/raabbittttttt/">
